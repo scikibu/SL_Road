@@ -24,3 +24,5 @@ to classify and predict the goodness of the streets.
   This folder includes all the csv files recorded so far with iPhones. The *gps files* provides data about coorinates, 
   speed meanwhile the *sj files* provides data about acceleration.  
   
+5. **`final_file`** :
+  This folder contains the files that has been processed and represents the final dataframes on which our analysis will be applied
